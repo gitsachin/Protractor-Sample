@@ -1,0 +1,14 @@
+{
+  "name": "protractor_framework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "conf.js",
+  "scripts": {
+    "test": "protractor conf.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "protractor-beautiful-reporter": "^1.2.8"
+  }
+}
