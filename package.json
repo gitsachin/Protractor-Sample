@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "protractor-beautiful-reporter": "^1.2.8"
+    "protractor-beautiful-reporter": "^1.3.6"
   }
 }
